@@ -107,30 +107,30 @@ import {
     //   name: "PostgreSQL",
     //   icon: postgres,
     // },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "JIRA",
-      icon: jira,
-    },
+    // {
+    //   name: "React JS",
+    //   icon: reactjs,
+    // },
+    // {
+    //   name: "Node JS",
+    //   icon: nodejs,
+    // },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
+    // {
+    //   name: "MongoDB",
+    //   icon: mongodb,
+    // },
+    // {
+    //   name: "JIRA",
+    //   icon: jira,
+    // },
     {
       name: "React JS",
       icon: reactjs,
