@@ -83,29 +83,53 @@ import {
   
   const technologies = [
     
+    // {
+    //   name: "aws",
+    //   icon: aws,
+    // },
+    // {
+    //   name: "java",
+    //   icon: java,
+    // },
+    // {
+    //   name: "python",
+    //   icon: python,
+    // },
+    // {
+    //   name: "MySQL",
+    //   icon: mysql,
+    // },
+    // {
+    //   name: "Spring Boot",
+    //   icon: springboot,
+    // },
+    // {
+    //   name: "PostgreSQL",
+    //   icon: postgres,
+    // },
     {
-      name: "aws",
-      icon: aws,
+      name: "React JS",
+      icon: reactjs,
     },
     {
-      name: "java",
-      icon: java,
+      name: "Node JS",
+      icon: nodejs,
     },
     {
-      name: "python",
-      icon: python,
+      name: "git",
+      icon: git,
     },
     {
-      name: "MySQL",
-      icon: mysql,
+      name: "docker",
+      icon: docker,
     },
     {
-      name: "Spring Boot",
-      icon: springboot,
+      name: "MongoDB",
+      icon: mongodb,
     },
     {
-      name: "PostgreSQL",
-      icon: postgres,
+      name: "JIRA",
+      icon: jira,
     },
     {
       name: "React JS",
