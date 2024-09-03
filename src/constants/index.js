@@ -83,30 +83,7 @@ import {
   
   const technologies = [
     
-    // {
-    //   name: "aws",
-    //   icon: aws,
-    // },
-    // {
-    //   name: "java",
-    //   icon: java,
-    // },
-    // {
-    //   name: "python",
-    //   icon: python,
-    // },
-    // {
-    //   name: "MySQL",
-    //   icon: mysql,
-    // },
-    // {
-    //   name: "Spring Boot",
-    //   icon: springboot,
-    // },
-    // {
-    //   name: "PostgreSQL",
-    //   icon: postgres,
-    // },
+    
     // {
     //   name: "React JS",
     //   icon: reactjs,
@@ -144,6 +121,30 @@ import {
       icon: git,
     },
     {
+      name: "aws",
+      icon: aws,
+    },
+    {
+      name: "java",
+      icon: java,
+    },
+    {
+      name: "python",
+      icon: python,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
+      name: "Spring Boot",
+      icon: springboot,
+    },
+    {
+      name: "PostgreSQL",
+      icon: postgres,
+    },
+    {
       name: "docker",
       icon: docker,
     },
@@ -155,6 +156,7 @@ import {
       name: "JIRA",
       icon: jira,
     },
+
   ];
   
   const experiences = [
