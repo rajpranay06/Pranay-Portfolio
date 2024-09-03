@@ -24,7 +24,7 @@ const EducationCard = ({
           scale: 1,
           speed: 300,
         }}
-        className="bg-tertiary p-5 rounded-2xl max-w-3xl mx-auto flex items-center"
+        className="bg-tertiary p-5 rounded-2xl max-w-2xl mx-auto flex items-center"
       >
         {/* Logo Section */}
         <div className="w-24 h-24 flex-shrink-0">
