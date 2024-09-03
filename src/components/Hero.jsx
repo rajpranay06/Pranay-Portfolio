@@ -24,11 +24,6 @@ const Hero = () => {
             <br className="sm:block hidden"></br> experienced in migrating Java
             applications to AWS Cloud.
           </p>
-          {/* <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.5 }}
-            className="mt-8 w-[250px] h-[250px] rounded-full bg-gradient-to-r from-primary to-secondary" */}
         </div>
       </div>
       <ComputersCanvas />
