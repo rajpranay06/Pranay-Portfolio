@@ -52,7 +52,7 @@ const About = () => {
       </motion.p>
 
       <a
-        href="https://drive.google.com/file/d/1ySjUTVMvkop9HJTTUADQhXdgYFjxq7SC/view?usp=sharing"
+        href="https://drive.google.com/file/d/1Q859miCRqEZ0GyjlgGbMjhm0_FN6qUxr/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-5 bg-[#915eff] text-white font-bold py-2 px-4 rounded hover:bg-[#7a48d8] transition duration-300 ease-in-out"
